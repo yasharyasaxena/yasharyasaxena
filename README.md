@@ -27,7 +27,7 @@
 
 ## 💻 Skills
 - **Languages**: JavaScript, HTML, CSS, Python, C/C++, Java
-- **Frontend**: React.js, Redux, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Frontend**: React.js, HTML5, CSS3, Bootstrap, Tailwind CSS
 - **Backend**: Node.js, Express.js, REST APIs
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Tools**: Git, GitHub, VS Code, Postman
