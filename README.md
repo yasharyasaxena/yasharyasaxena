@@ -4,7 +4,6 @@
 - 🎓 First Year Computer Science Student at **IIT Indore**
 - 💻 Full Stack Developer passionate about creating web applications
 - 🌱 Constantly learning and improving my skills
-- 📝 My best project is a **Blog** application
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-arya-saxena-834021331)
