@@ -23,9 +23,9 @@
 
 
 ## 📊 GitHub Stats
-![yasharyasaxena's Stats](https://github-readme-stats.vercel.app/api?username=yasharyasaxena&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![yasharyasaxena's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasharyasaxena&theme=vue-dark&hide_border=true)
-![yasharyasaxena's Top Languages](https://api.githubtrends.io/user/svg/yasharyasaxena/langs?time_range=one_year&include_private=True&compact=True&theme=dark)
+![yasharyasaxena's Top Languages](https://api.githubtrends.io/user/svg/yasharyasaxena/langs?time_range=one_year&include_private=True&theme=dark&compact=true)
+![yasharyasaxena's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasharyasaxena&theme=dark&rank_icon=github&include_all_commits=true&show_icons=true)
+![yasharyasaxena's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasharyasaxena&theme=dark)
 
 ## 💻 Skills
 - **Languages**: JavaScript, HTML, CSS, Python, C/C++, Java
